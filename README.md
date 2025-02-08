@@ -31,7 +31,7 @@ if (ehAdmin(usuario)) {
 ```
 
 A ideia principal do DRY consiste em evitar a repetição de código, reduzindo a complexidade e facilitando a manutenção do código.
-[Mais aqui!](https://github.com/dev-queiroz/good-pratices/dry)
+[Mais aqui!](https://github.com/dev-queiroz/good-pratices/tree/main/dry)
 
 ## 2. KISS (Keep It Simple, Stupid - Mantenha Isso Simples, Estúpido)
 
@@ -57,7 +57,7 @@ def calcular_idade(data_nascimento):
 ```
 
 KISS enfatiza a simplicidade e a estúpidoade do código, mantendo-a simples e direta sem perder a legibilidade.
-[Mais aqui!](https://github.com/dev-queiroz/good-pratices/kiss)
+[Mais aqui!](https://github.com/dev-queiroz/good-pratices/tree/main/kiss)
 
 ## 3. YAGNI (You Ain't Gonna Need It - Você Não Vai Precisar Disso)
 
@@ -87,7 +87,7 @@ class Usuario:
 ```
 
 YAGNI enfatiza a necessidade de implementar funcionalidades apenas quando elas realmente forem necessárias, reduzindo a complexidade desnecessária e economizando tempo de desenvolvimento.
-[Mais aqui!](https://github.com/dev-queiroz/good-pratices/yagni)
+[Mais aqui!](https://github.com/dev-queiroz/good-pratices/tree/main/yagni)
 
 ## Benefícios da Aplicação
 
