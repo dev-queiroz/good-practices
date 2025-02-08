@@ -1,0 +1,10 @@
+{
+  "name": "winner-engineered-user-system",
+  "version": "1.0.0",
+  "description": "An simple user registration system using SQL",
+  "main": "yagni.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "over-engineered-user-system",
+  "version": "1.0.0",
+  "description": "An unnecessarily complex user registration system using both SQL and NoSQL",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "mongodb": "^4.4.0"
+  }
+}
